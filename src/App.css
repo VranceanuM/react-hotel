@@ -176,6 +176,7 @@ h6 {
   color: var(--mainWhite);
   padding: 2rem 1rem;
   text-align: center;
+  position: relative;
   text-transform: capitalize;
   letter-spacing: var(--mainSpacing);
 }
